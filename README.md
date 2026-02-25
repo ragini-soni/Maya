@@ -1,1 +1,1 @@
-# Maya
+# Maya-bot
